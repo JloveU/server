@@ -1,7 +1,7 @@
 #InternetCheckConnection
 ---
 
-本程序为控制台程序，利用Windows API中的[InternetCheckConnection][1]函数，检测当前是否联通互联网。
+本程序为Windowes平台的控制台程序，利用Windows API中的[InternetCheckConnection][1]函数，检测当前是否联通互联网。
 
 ##使用说明：
 
